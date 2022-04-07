@@ -32,4 +32,4 @@ Ecommerce desarrollandose con:
 - Manejo de datos con Json y Ajax
 - HTML, CSS, JavaScript, Boostrap
 - Base de Datos: MySQL
-www.maddsgt.com
+- www.maddsgt.com

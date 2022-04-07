@@ -22,3 +22,14 @@ Soy estudiante de la carrera de Ingenieria en Sistemas, me apasiona la programac
 ### Base de Datos
 - MySQL
 - SQLServer
+
+
+## Proyectos
+
+### Proyecto aun en desarrollo
+Ecommerce desarrollandose con:
+- PHP puro
+- Manejo de datos con Json y Ajax
+- HTML, CSS, JavaScript, Boostrap
+- Base de Datos: MySQL
+www.maddsgt.com

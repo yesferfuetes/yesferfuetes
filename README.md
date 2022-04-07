@@ -28,9 +28,10 @@ Soy estudiante de la carrera de Ingenieria en Sistemas, me apasiona la programac
 
 ### Proyecto aun en desarrollo / www.maddsgt.com
 Ecommerce desarrollandose con:
-- PHP puro
-- Manejo de datos con Json y Ajax
-- HTML, CSS, JavaScript, Boostrap
-- Base de Datos: MySQL
-- Conexión a base de datos MySQL con PDO
+- PHP puro.
+- Manejo de datos con Json y Ajax.
+- HTML, CSS, JavaScript, Boostrap.
+- Base de Datos: MySQL.
+- Conexión a base de datos MySQL con PDO.
+- Implementando el patron de diseño MVC.
 - Se integro un lado administrativo con tamplete y login, url/login.

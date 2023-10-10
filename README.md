@@ -9,12 +9,11 @@ Soy estudiante de la carrera de Ingenieria en Sistemas, me apasiona la programac
 ## Skills:
 
 ### Backend
+- C# - .Net
+- ASP.Net y .Net Core
+- ORM: EF
 - PHP
-- C#
-- .Net Core
-- ASP .Net
-- Ajax
-- Manejo de información en formato JSON
+- Js
 
 ### Frontend
 - JavaScript

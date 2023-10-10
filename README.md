@@ -11,7 +11,8 @@ Soy estudiante de la carrera de Ingenieria en Sistemas, me apasiona la programac
 ### Backend
 - C# - .Net
 - ASP.Net y .Net Core
-- ORM: EF
+- ORM: EF, dapper
+- API Rest
 - PHP
 - Js
 

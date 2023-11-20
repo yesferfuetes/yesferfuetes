@@ -12,15 +12,17 @@ Soy estudiante de la carrera de Ingenieria en Sistemas, me apasiona la programac
 - C# - .Net
 - ASP.Net y .Net Core
 - ORM: EF, dapper
-- API Rest
-- PHP
+- Servicios web REST API
 - Js
+- TypeScript
+- Node JS (Express.js y NestJS)
 
 ### Frontend
 - JavaScript
 - HTML
 - CSS
 - Boostrap
+- Angular
 
 ### Base de Datos
 - MySQL

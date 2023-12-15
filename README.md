@@ -4,18 +4,18 @@
 **yesferfuetes/yesferfuetes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Soy estudiante de la carrera de Ingenieria en Sistemas, me apasiona la programación y dia a dia trato de desarrollarme y aprender cada vez más.
+Soy estudiante de la carrera de Ingeniería en Sistemas, y actualmente me desempeñó como Software Developer.
 
 ## Skills:
 
 ### Backend
 - C# - .Net
 - ASP.Net y .Net Core
-- ORM: EF, dapper
+  - ORM: EF, dapper
 - Servicios web REST API
-- Js
 - TypeScript
 - Node JS (Express.js y NestJS)
+   - ORM: TypeORM
 
 ### Frontend
 - JavaScript
@@ -23,10 +23,16 @@ Soy estudiante de la carrera de Ingenieria en Sistemas, me apasiona la programac
 - CSS
 - Boostrap
 - Angular
+- React
 
 ### Base de Datos
+Relacional
+- PostgreSQL
 - MySQL
 - SQLServer
+
+No Relacional
+- MongoDB
 
 
 ## Proyectos

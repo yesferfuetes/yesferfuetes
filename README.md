@@ -9,13 +9,13 @@ Soy estudiante de la carrera de Ingeniería en Sistemas, y actualmente me desemp
 ## Skills:
 
 ### Backend
+- TypeScript
+- Node JS (Express.js y NestJS)
+   - ORM: TypeORM
 - C# - .Net
 - ASP.Net y .Net Core
   - ORM: EF, dapper
 - Servicios web REST API
-- TypeScript
-- Node JS (Express.js y NestJS)
-   - ORM: TypeORM
 
 ### Frontend
 - JavaScript
@@ -33,16 +33,3 @@ Relacional
 
 No Relacional
 - MongoDB
-
-
-## Proyectos
-
-### Proyecto / www.maddsgt.com
-Ecommerce desarrollandose con:
-- PHP puro.
-- Manejo de datos con Json y Ajax.
-- HTML, CSS, JavaScript, Boostrap.
-- Base de Datos: MySQL.
-- Conexión a base de datos MySQL con PDO.
-- Implementando el patron de diseño MVC y POO.
-- Se integro un lado administrativo con tamplete y login, url/login.
